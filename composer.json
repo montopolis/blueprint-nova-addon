@@ -5,7 +5,7 @@
         "naoray",
         "blueprint-nova-addon"
     ],
-    "homepage": "https://github.com/naoray/blueprint-nova-addon",
+    "homepage": "https://github.com/montopolis/blueprint-nova-addon",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Montopolis\\BlueprintNovaAddon\\": "src"
+            "Naoray\\BlueprintNovaAddon\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Montopolis\\BlueprintNovaAddon\\Tests\\": "tests"
+            "Naoray\\BlueprintNovaAddon\\Tests\\": "tests"
         }
     },
     "scripts": {

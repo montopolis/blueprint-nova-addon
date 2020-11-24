@@ -32,7 +32,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Naoray\\BlueprintNovaAddon\\Tests\\": "tests"
+            "Montopolis\\BlueprintNovaAddon\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -44,7 +44,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Naoray\\BlueprintNovaAddon\\BlueprintNovaAddonServiceProvider"
+                "Montopolis\\BlueprintNovaAddon\\BlueprintNovaAddonServiceProvider"
             ]
         }
     }

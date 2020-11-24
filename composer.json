@@ -41,10 +41,11 @@
     "config": {
         "sort-packages": true
     },
+
     "extra": {
         "laravel": {
             "providers": [
-                "Montopolis\\BlueprintNovaAddon\\BlueprintNovaAddonServiceProvider"
+                "Naoray\\BlueprintNovaAddon\\BlueprintNovaAddonServiceProvider"
             ]
         }
     }
